@@ -1,0 +1,1 @@
+# dinamic-island-Iphone-14-PedroAugusto
