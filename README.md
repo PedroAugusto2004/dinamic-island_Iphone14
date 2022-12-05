@@ -1,1 +1,1 @@
-# dinamic-island-Iphone-14-PedroAugusto
+# Dinamic Island Iphone 14
