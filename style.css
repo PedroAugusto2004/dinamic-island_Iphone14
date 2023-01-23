@@ -361,14 +361,14 @@ body{
 }
 
 .content .text:before{
-    content: "MusicArtistName";
+    content: "Music Artist Name";
     order: 1;
     text-transform: uppercase;
 }
 
 .content .text:after{
     order: 2;
-    content: "MusicName";
+    content: "Music Name";
     opacity: 0.5;
 }
 
